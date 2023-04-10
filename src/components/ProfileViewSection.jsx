@@ -8,35 +8,35 @@ const ProfileViewSection = () => {
 			<div className="profile-view-section">
 				<div className="left-column">
 					<UserProfile
-						picture="hello"
+						picture="image"
 						id="ahdhd"
 						title="ms"
 						firstName="Charlotte"
 						lastName="Legrand"
 					/>
 					<UserProfile
-						picture="hello"
+						picture="image"
 						id="ahdhd"
 						title="ms"
 						firstName="Charlotte"
 						lastName="Legrand"
 					/>
 					<UserProfile
-						picture="hello"
+						picture="image"
 						id="ahdhd"
 						title="ms"
 						firstName="Charlotte"
 						lastName="Legrand"
 					/>
 					<UserProfile
-						picture="hello"
+						picture="image"
 						id="ahdhd"
 						title="ms"
 						firstName="Charlotte"
 						lastName="Legrand"
 					/>
 					<UserProfile
-						picture="hello"
+						picture="image"
 						id="ahdhd"
 						title="ms"
 						firstName="Charlotte"
@@ -45,7 +45,7 @@ const ProfileViewSection = () => {
 				</div>
 				<div className="right-column">
 					<UserProfile
-						picture="hello"
+						picture="image"
 						id="ahdhd"
 						title="ms"
 						firstName="Charlotte"
