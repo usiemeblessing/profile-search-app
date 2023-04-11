@@ -19,7 +19,7 @@ const App = () => {
 					user.firstName.toLowerCase().includes(query)
 				).map((user) => (
 					<li key={user.id} className="listItem">
-						{user.firstName}
+						{user.firstName} {user.lastName}
 					</li>
 				))}
 			</ul>
