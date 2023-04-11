@@ -1,6 +1,6 @@
 /** @format */
 
-export const users = [
+export const Users = [
 	{
 		id: "60d0fe4f5311236168a109f5",
 		title: "ms",
