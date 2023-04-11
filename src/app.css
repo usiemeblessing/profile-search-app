@@ -21,6 +21,9 @@ body {
 		rgb(204, 6, 89),
 		rgb(216, 177, 3)
 	);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
 }
 .search {
 	width: 60rem;
