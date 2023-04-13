@@ -3,8 +3,8 @@
 import React from "react";
 import "../styles/profile-list.css";
 
-const ProfileLists = ({ searchQuery }) => {
-	const usersProfile = searchQuery.map((profile) => {
+const ProfileLists = ({ filteredProfiles }) => {
+	const usersProfile = filteredProfiles.map((profile) => {
 		return (
 			<li key={profile.id}>
 				<img src={profile.picture} alt="profile" />
